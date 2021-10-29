@@ -4,7 +4,7 @@ Running on Windows, I found that this walkthrough was the eaisest for installing
 
 sh -c "$(curl -sSfL https://release.solana.com/v1.6.8/install)"
 
-command to
+command in Part 5 to
 
 sh -c "$(curl -sSfL https://release.solana.com/v1.8.2/install)"
 

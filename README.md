@@ -8,4 +8,7 @@ command in Part 5 to
 
 sh -c "$(curl -sSfL https://release.solana.com/v1.8.2/install)"
 
+A great guide for implementing Chainlink VRF (Provable RNG)
+
+https://www.youtube.com/watch?v=JqZWariqh5s
 

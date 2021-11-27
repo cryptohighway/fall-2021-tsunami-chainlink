@@ -1,4 +1,4 @@
-Tsunami is a NFT marketplace built with Metaplex.
+# Tsunami is a NFT marketplace built with Metaplex
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;

@@ -2,7 +2,7 @@
 
 This <a href="https://github.com/cryptohighway/metaplex">repo</a> contains our Metaplex powering our site.
 
-We read the SOL/USD price (<a href="https://explorer.solana.com/address/6VKR5dn1LyFmYhQ8hpepPB6i8HAxTX2MNbahXkTcDubD?cluster=devnet">Devnet Explorer Link</a>) using a Chainlink Datafeed deployed on Solana
+We read the SOL/USD price (<a href="https://explorer.solana.com/address/6VKR5dn1LyFmYhQ8hpepPB6i8HAxTX2MNbahXkTcDubD?cluster=devnet" target="_blank">Devnet Explorer Link</a>) using a Chainlink Datafeed deployed on Solana
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;

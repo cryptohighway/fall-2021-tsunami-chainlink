@@ -1,6 +1,8 @@
 # Tsunami is an NFT marketplace built with Metaplex
 
-This <a href="https://github.com/cryptohighway/metaplex">repo</a> contains our Metaplex powering our site.
+Re: Chainlink Fall 2021 -> This <a href="https://github.com/cryptohighway/metaplex">repo</a> contains our Metaplex powering our site.
+
+Our working site is located at <a href="https://tsunami.monster">tsunami.monster</a>.
 
 We read the SOL/USD price (<a href="https://explorer.solana.com/address/6VKR5dn1LyFmYhQ8hpepPB6i8HAxTX2MNbahXkTcDubD?cluster=devnet" target="_blank">Devnet Explorer Link</a>) using a Chainlink Datafeed deployed on Solana
 
